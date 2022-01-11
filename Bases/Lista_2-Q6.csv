@@ -1,9 +1,3 @@
-Texto,Classe
-They are novels,stmt
-have you read this book,question
-who is the autor,question
-what are the characters,question
-This is how I bought the book,stmt
-I like fictions,stmt
-what is your favorite book,question
-This is my book,stmt
+version https://git-lfs.github.com/spec/v1
+oid sha256:945223ac900998627e9063fd5d9a54ee8a2d1c0de6784df1194b50f3f2b4cfa8
+size 248
